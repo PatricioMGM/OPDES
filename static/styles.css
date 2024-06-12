@@ -1,0 +1,18 @@
+body{
+    
+    background-image: url("/static/imagenes/fondo.png");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+}
+.Logo_Blanco{
+    top: 130px;
+    position: relative;
+    left: 30%;
+}
+.Inicio_sesion{
+    color: rgb(255, 255, 255);
+    top: 400px;
+    position: relative;
+    left: 50%;
+}
+
